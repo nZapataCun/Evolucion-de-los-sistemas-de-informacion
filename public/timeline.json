@@ -1,0 +1,84 @@
+
+{
+	"timeline":
+	{
+		"headline":"Sistemas de informacion",
+		"type":"default",
+		"text":"<p>Los sistemas informáticos han evolucionado a lo largo del tiempo para amoldarse a los nuevos paradigmas de información. <br>Escrito por: <br>Nelson Stiven Zapata Rios y <br>Edilberto Andrés Escobar Chávez<br> Ficha 51234 </p>",
+		"asset": {
+			"media":"https://sites.google.com/site/institutodetecnologiaaplicada/_/rsrc/1436748325295/about-me/infraestructura/imageResource_254_infraestructura.jpg",
+			"credit":"https://sites.google.com/site/institutodetecnologiaaplicada/about-me/infraestructura"
+		},
+		"date": [
+			{
+				"startDate":"1950",
+				"endDate":"1960",
+				"headline":"Procesamiento de datos",
+				"text":"<p>Recopila, almacena, modifica y recupera transacciones cotidianas de una organización.<br><br>Durante este período, el papel de SI fue principalmente para realizar actividades como el procesamiento de transacciones, el mantenimiento de registros y la contabilidad. SI se utilizó principalmente para el procesamiento electrónico de datos.</p>",
+				"asset": {
+					"media":"https://www.tecnologias-informacion.com/proces.jpg",
+					"credit":"https://www.tecnologias-informacion.com/procesamientodatos.html"
+				}
+			},
+            {
+				"startDate":"1960",
+				"endDate":"1970",
+				"headline":"Informes de gestion",
+				"text":"<p>Informes y pantallas preespecificados para apoyar la toma de decisiones empresariales.<br><br>Durante esta era, el rol de SI evolucionó desde TPS hasta Management Information Systems (MSI) o Sistemas de información gerenciales. MSI procesa los datos en informes informativos útiles y proporciona a los gerentes las herramientas para organizar evaluar y administrar de manera eficiente los departamentos dentro de una organización.</p>",
+				"asset": {
+					"media":"https://www.corpochivor.gov.co/wp-content/uploads/2015/11/bannerinforme.png",
+					"credit":"https://www.corpochivor.gov.co/entidad-2/rendicion-de-cuentas/informes-de-gestion/",
+					"caption":".."
+				}
+			},
+            {
+				"startDate":"1970",
+				"endDate":"1980",
+				"headline":"Apoyo a las decisiones",
+				"text":"<p>Soporte ad-hoc interactivo para el proceso de toma de decisiones.<br><br>En esta era, un avance importante fue la introducción de las computadoras personales (PC). Con la introducción de las PC, se produjo la distribución de la potencia informática o de procesamiento en toda la organización. La función de SI está fuertemente asociada con la administración en lugar de un enfoque técnico en una organización. El papel se centró en el \"sistema interactivo basado en computadoras\" para ayudar a los responsables de la toma de decisiones a resolver problemas.</p>",
+				"asset": {
+					"media":"https://www.tecnologias-informacion.com/dssapoyo.jpg",
+					"credit":"https://www.tecnologias-informacion.com/soportedecisiones.html"
+				}
+			},
+            {
+				"startDate":"1980",
+				"endDate":"1990",
+				"headline":"Apoyo ejecutivo",
+				"text":"<p>Proporcione información interna y externa relevante para los objetivos estratégicos de la organización.<br><br>Este período dio lugar a la informática departamental debido a que muchas organizaciones compran su propio hardware y software para satisfacer sus necesidades departamentales. En lugar de esperar el apoyo indirecto del departamento de servicio corporativo centralizado, los empleados podrían usar sus propios recursos para respaldar sus requisitos laborales./p>",
+				"asset": {
+					"media":"https://i1.wp.com/image.slidesharecdn.com/tiposdesistemasdeinf-120904150856-phpapp01/95/tipos-de-sistemas-de-informacion-7-728.jpg",
+					"credit":"https://sistemas16site.wordpress.com/2016/12/29/sistemas-de-apoyo-ejecutivo-ess/"
+				}
+			},
+            {
+				"startDate":"1990",
+				"endDate":"2000",
+				"headline":"Conocimiento administrativo",
+				"text":"<p>Apoya la creación, organización y diseminación del conocimiento empresarial.<br><br>Durante esta era, el rápido crecimiento de las intranets, extranets, internet y otras redes globales interconectadas cambiaron drásticamente las capacidades de SI en los negocios. Se hizo posible circular el conocimiento a diferentes partes del mundo independientemente del tiempo y el espacio.</p>",
+				"asset": {
+					"media":"https://www.observatoriorh.com/wp-content/uploads/2016/07/conocimiento.png",
+					"credit":"https://www.observatoriorh.com/orh-posts/como-implantar-un-sistema-de-gestion-del-conocimiento.html"
+				}
+			},
+            {
+				"startDate":"2000",
+				"headline":"E-Business",
+				"text":"<p>Mayor conectividad, mayor nivel de integración en todas las aplicaciones.<br><br>Internet y las tecnologías y aplicaciones relacionadas cambiaron la forma en que operan las empresas y las personas trabajan.</p>",
+				"asset": {
+					"media":"https://enteratedigital.pe/wp-content/uploads/2020/10/e-business.jpg",
+                    "credit":"https://enteratedigital.pe/ecommerce/diferencias-e-business-e-commerce/"
+				}
+			},
+            {
+				"startDate":"2000",
+				"headline":"Recursos Web y Webgrafia",
+				"text":"<p>Evolución de los Sistemas de Información. Recuperado de: https://www.tecnologias-informacion.com/evolucionsistemas.html</p>",
+				"asset": {
+					"media":"https://presupuestohoy.files.wordpress.com/2016/11/web.jpg",
+					"credit":"https://presupuestohoy.wordpress.com/2016/11/21/webgrafia/"
+				}
+			}
+		]
+	}
+}
